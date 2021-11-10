@@ -2,8 +2,6 @@ package jpa.example.service;
 
 import java.math.BigDecimal;
 
-import javax.transaction.Transactional;
-
 import org.springframework.stereotype.Service;
 
 import jpa.example.model.User;
